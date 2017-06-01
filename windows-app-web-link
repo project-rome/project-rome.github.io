@@ -1,4 +1,5 @@
 [{
                 "packageFamilyName" : "5085ShawnHenry.RomanTestApp_jsjw7knzsgcce",
-                "paths" : ["/app/*"]
+                "paths" : ["/app/*"],
+                "allowSubdomains": true
 }]
